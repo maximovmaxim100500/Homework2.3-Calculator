@@ -1,6 +1,6 @@
 package pro.sky.calculator;
 
-public interface CalculatorService {
+public interface CalculatorService {//
     String calculatorHello();
 
     int plus(int num1, int num2);
